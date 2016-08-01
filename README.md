@@ -1,11 +1,6 @@
-Minitaxi Project
-----------------
+Minitaxi ETL Script
+-------------------
 
-This project converts taxi file format to minitaxi file format
+This script converts taxi files into smaller file size so they can all be stored and processed on a single laptop.  It's primary purpose is to learn typical python toolchain and some basic ETL operations (Extract Transform Load)
 
-Techonolgy Stack
-================
-
-1. PYthon 2.7.11
-2. PETL
-3. Virtualenv
+Please see comments in scripts for explanatory details.
